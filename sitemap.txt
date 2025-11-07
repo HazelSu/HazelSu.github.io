@@ -1,0 +1,7 @@
+http://example.com/2025/11/06/ac-about/
+http://example.com/news/index.html
+http://example.com/index.html
+http://example.com/about/index.html
+http://example.com/publications/index.html
+http://example.com/2024/05/23/Resume/
+http://example.com/
